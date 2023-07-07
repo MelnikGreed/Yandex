@@ -1,3 +1,3 @@
-gorod.jpg
+*.jpg
 .idea/
-venv/token
+.token/
